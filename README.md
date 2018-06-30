@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Pixel Art Maker Project
 
+https://danielosunbor.github.io/Project-Pixel-Art-Maker/
+
 ## Table of Contents
 
 * [Instructions](#instructions)
